@@ -1,0 +1,32 @@
+user_id,signup_date,last_activity_date,usage_frequency,region,subscription_type,monthly_fee,churn
+U001,2023-01-15,2024-01-10,Daily,Europe,Basic,50,No
+U002,2022-11-20,2023-12-01,Weekly,North America,Premium,120,No
+U003,2023/05/10,2023-11-15,Monthly,Asia,Standard,80,Yes
+U004,2023-07-01,2023-10-05,,Africa,Basic,50,Yes
+U005,2022-09-12,2024-01-12,Daily,Europe,Premium,,No
+U006,2023-03-25,2023-09-20,Weekly,South America,Standard,80,Yes
+U007,2023-06-18,2024-01-05,Daily,,Basic,50,No
+U008,2022-12-30,2023-12-25,Weekly,Europe,Premium,120,No
+U009,2023-08-11,2023-09-30,Rare,Africa,Standard,80,Yes
+U010,2023-02-14,2024-01-01,Daily,North America,Premium,120,No
+U011,2023-04-12,2023-12-20,Weekly,Europe,Standard,80,No
+U012,2023-01-05,2023-08-15,Rare,Asia,Basic,50,Yes
+U013,2022-10-18,2024-01-10,Daily,North America,Premium,120,No
+U014,2023-06-01,2023-10-18,Monthly,Africa,Standard,80,
+U015,2023-07-20,2024-01-02,Daily,Europe,Basic,50,No
+U016,2022-12-10,2023-11-25,Weekly,Asia,Premium,120,No
+U017,2023-03-05,2023-07-15,Rare,South America,Basic,50,Yes
+U018,2023-05-22,2023-12-10,Weekly,Europe,Standard,80,No
+U019,2023-08-02,2023-09-25,Rare,Africa,Basic,50,Yes
+U020,2023-02-28,2024-01-08,Daily,North America,Premium,120,No
+U021,2023-01-30,2023-11-30,Weekly,Europe,Standard,80,No
+U022,2023-04-15,2023-09-12,Rare,Asia,Basic,50,Yes
+U023,2022-11-01,2024-01-05,Daily,North America,Premium,120,No
+U024,2023-06-09,2023-12-22,Weekly,Europe,Standard,80,No
+U025,2023-07-14,2023-10-02,Rare,Africa,Basic,50,Yes
+U026,2023-03-17,2024-01-03,Daily,Asia,Premium,120,No
+U027,2023-05-11,2023-11-01,Weekly,South America,Standard,80,Yes
+U028,2023-08-21,2023-09-18,Rare,Africa,Basic,50,Yes
+U029,2022-10-09,2024-01-09,Daily,Europe,Premium,120,No
+U030,2023-02-03,2023-12-12,Weekly,North America,Standard,80,No
+U030,2023-02-03,2023-12-12,Weekly,North America,Standard,80,No
